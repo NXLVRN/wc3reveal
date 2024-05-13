@@ -1,0 +1,18 @@
+hfoo - Most Melee Fighters And Sends (Ghoul / Harlot / Blood Orc / Furbolg / Etc..)
+hrif - Most Ranged Fighters And Sends (Infantry / Dark Mage / Spirit / Kraken / Etc..)
+hdhw - Most Flying Fighters (Dragonhawk / Sprite /  Etc..)
+ewsp - Wisp Worker
+nwen - Wendigo
+nwns - Ancient Wendigo
+nwwf - Frost Wolf
+nfrp - Pandaren
+nitp - Ice Troll / Warlock
+nplb - Polar Bear
+ngmd - Magnataur
+ntka - Tuskarr Spearman
+ntkf - Tuskarr Fighter
+odoc - Young / Elder Witch Doctor
+uaco - Prophet Builder
+hgtw - All Enemy Towers (NOT RECOMMENDED! WILL SHOW ON MINIMAP!)
+hhou - Land Mine Tower (NOT RECOMMENDED! WILL SHOW ON MINIMAP!)
+hwtw - The King (NOT RECOMMENDED! COLOR WILL SHOW ON MINIMAP EVEN IF SELECTED IN FOG!)
